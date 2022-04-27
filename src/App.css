@@ -35,3 +35,15 @@
     transform: rotate(360deg);
   }
 }
+
+
+.show{
+  opacity: 1;
+  pointer-events:all;
+}
+
+button{
+  color: rgb(73, 26, 201);
+  opacity: 0;
+  pointer-events: none;
+}
